@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project on fetching data from an API an
 
 ## Getting Started
 
-First, install the dependecies
+First, install the dependecies:
 
 ```bash
 npm install
