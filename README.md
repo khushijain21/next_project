@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project on fetching data from an API, setting dynamic routes
+This is a [Next.js](https://nextjs.org/) project on fetching data from an API and setting dynamic routes
 
 ## Getting Started
 
